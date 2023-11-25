@@ -28,6 +28,8 @@ The script will generate a SAT problem and save it as a `.npy` file.
 
 ### Checking SAT Solutions
 
+Please download input SAT problem matrix files and their corresponding soultion sequences from [HERE][https://drive.google.com/drive/folders/1lkNM7CpooTrn2tBXNHPV4beQVkR_38LZ?usp=share_link]
+
 To check a solution, run `main.py` and choose the 'chk' option. 
 
 **Example:**
