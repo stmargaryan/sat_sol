@@ -1,5 +1,8 @@
 
-# SAT Problem Generator and Solver
+# Polynomial Time Algorithm for Boolean Satisfiability Problem
+ SAT Problem Generator and Solver
+
+#Official implementation of the paper Stepan G. Margaryan "Polynomial Time Algorithm for Boolean Satisfiability Problem" [PDF](https://arxiv.org/pdf/2310.19833.pdf)
 
 This project includes three Python scripts that work together to generate and check solutions for SAT (Satisfiability) problems. The SAT problems are represented as matrices, and the solution-checking is based on the correctness of these matrix representations.
 
